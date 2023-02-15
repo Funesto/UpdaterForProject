@@ -8,9 +8,5 @@
 <End of Version>
 
 <Version: 1.03>
-/data/Map004.json https://raw.githubusercontent.com/Funesto/UpdaterForProject/main/Map004.json
-<End of Version>
-
-<Version: 1.04>
-/data/Map004.json https://raw.githubusercontent.com/Funesto/UpdaterForProject/main/Map004.json
+/data/Map007.json https://raw.githubusercontent.com/Funesto/UpdaterForProject/main/Map007.json
 <End of Version>
